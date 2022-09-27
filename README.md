@@ -1,2 +1,2 @@
-Hi 👋, I’m @eskandaridanial, a software engineer.
-My blog 📫 https://medium.com/@DanialEskandari
+Hi 👋, I’m @eskandaridanial, I'm a software engineer.
+My blog on medium 📫 https://medium.com/@DanialEskandari
